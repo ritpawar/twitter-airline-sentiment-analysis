@@ -1,0 +1,8 @@
+## 📊 Dataset
+The dataset used in this project is the **Twitter Airline Sentiment Dataset**
+from Kaggle.
+
+Due to licensing restrictions, the raw dataset is not included in this
+repository.  
+You can download it directly from Kaggle here:
+https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/discussion/18283
